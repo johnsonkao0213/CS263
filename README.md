@@ -1,6 +1,4 @@
-# Debate or Vote?
-
-This is an official repo for the **NeurIPS 2025 Spotlight** paper, "[Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?](https://arxiv.org/abs/2508.17536)" by Hyeong Kyu (Froilan) Choi, Xiaojin (Jerry) Zhu, and Yixuan (Sharon) Li.
+# CS263 Final Project: Identity Bias in Multi-Agent Debate - Quantifying Conformity and Obstinacy in LLM Collaboration
 
 
 
@@ -52,16 +50,6 @@ To compute Conformity vs. Obstinacy (Appendix A.3) with a single-peer debate pro
 --single_peer --prompt_template paper --report_identity_bias
 ```
 Metrics are saved to ```out/metrics/{run_name}_identity_bias.json```.
-
-
-## Citation
-```
-@inproceedings{choi2025debate,
-  title={Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?},
-  author={Choi, Hyeong Kyu and Zhu, Xiaojin and Li, Sharon},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2025}
-}
 ```
 
 

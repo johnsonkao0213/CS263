@@ -51,7 +51,3 @@ To compute Conformity vs. Obstinacy (Appendix A.3) with a single-peer debate pro
 ```
 Metrics are saved to ```out/metrics/{run_name}_identity_bias.json```.
 ```
-
-
-## License
-This work is released under the MIT License.
